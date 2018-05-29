@@ -46,7 +46,7 @@ set -e
 
 # Get the docs repo
 git clone https://${DOCS_REPO_REF}
-export DOCS_REPO=$ROOT_DIR/IBAMR-Docs
+export DOCS_REPO=$ROOT_DIR/test-travis
 #####cd $ROOT_DIR/$GH_REPO_NAME
 
 ##### Configure git.

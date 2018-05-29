@@ -9,10 +9,10 @@ branches:
 # environment variables
 env:
   global:
-    - GH_REPO_NAME: IBAMR
+    - GH_REPO_NAME: raveenak96/IBAMR
     - DOXYFILE: $TRAVIS_BUILD_DIR/doc/Doxyfile
-    - GH_REPO_REF: github.com/IBAMR/IBAMR.git
-    - DOCS_REPO_REF: github.com/IBAMR/IBAMR-Docs
+    - GH_REPO_REF: github.com/raveenak96/IBAMR.git
+    - DOCS_REPO_REF: github.com/raveenak96/test-travis
 
 
 # dependencies
