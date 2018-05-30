@@ -66,6 +66,10 @@ git config user.email "travis@travis-ci.org"
 # Create the directory where Doxygen will output files.
 mkdir -p html/ibamr/html
 
+# Grab libstdc++ tagfile and put in doc directory
+wget https://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/libstdc++.tag
+mv libstdc++.tag $TRAVIS_BUILD_DIR/doc
+
 # Need to create a .nojekyll file to allow filenames starting with an underscore
 # to be seen on the gh-pages site. Therefore creating an empty .nojekyll file.
 # Presumably this is only needed when the SHORT_NAMES option in Doxygen is set

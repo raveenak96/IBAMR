@@ -29,7 +29,7 @@ For general information about the IB method, see <a href="http://math.nyu.edu/fa
 Support
 -------
 
-Support for %IBAMR is available via the <a href="https://groups.google.com/forum/#!forum/ibamr-users" target="_blank">IBAMR Users Google Group</a>(ibamr-users@googlegroups.com).  Discussion related to the continued development of %IBAMR is via the <a href="http://groups.google.com/group/ibamr-dev" target="_blank">IBAMR Developers Google Group</a>(ibamr-dev@googlegroups.com). 
+Support for %IBAMR is available via the <a href="https://groups.google.com/forum/#!forum/ibamr-users" target="_blank">IBAMR Users Google Group</a> (ibamr-users@googlegroups.com).  Discussion related to the continued development of %IBAMR is via the <a href="http://groups.google.com/group/ibamr-dev" target="_blank">IBAMR Developers Google Group</a> (ibamr-dev@googlegroups.com). 
 
 Bugs and Other Issues
 ---------------------
